@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cvt>
+    <cv index="0" value="45"/>
+    <cv index="1" value="219"/>
+    <cv index="2" value="274"/>
+    <cv index="3" value="0"/>
+    <cv index="4" value="43"/>
+    <cv index="5" value="-459"/>
+    <cv index="6" value="48"/>
+    <cv index="7" value="930"/>
+    <cv index="8" value="40"/>
+    <cv index="9" value="1206"/>
+    <cv index="10" value="45"/>
+    <cv index="11" value="1365"/>
+    <cv index="12" value="27"/>
+  </cvt>
+
+</ttFont>

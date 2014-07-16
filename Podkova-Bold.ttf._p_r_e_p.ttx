@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      PUSHB[ ]  /* 1 value pushed */
+      0
+      CALL[ ]
+      SVTCA[0]
+      PUSHB[ ]  /* 3 values pushed */
+      1 1 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHB[ ]  /* 3 values pushed */
+      2 1 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHB[ ]  /* 8 values pushed */
+      2 42 34 27 19 12 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHB[ ]  /* 8 values pushed */
+      1 52 44 33 24 15 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHB[ ]  /* 3 values pushed */
+      3 5 7
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      0
+      DUP[ ]
+      RCVT[ ]
+      RDTG[ ]
+      ROUND[01]
+      RTG[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      96 5 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      160 5 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      224 5 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      240 5 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      48 5 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      176 5 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      63 7 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      95 7 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      127 7 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      191 7 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      239 7 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      255 7 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      15 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      47 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      79 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      111 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      143 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      159 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      191 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      223 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      255 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      15 7 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      31 7 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      63 7 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      79 7 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      175 7 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      15 9 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      47 9 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      127 9 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      175 9 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      207 9 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      255 9 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      31 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      63 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      79 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      111 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      95 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      127 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      143 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      159 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      191 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      207 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      223 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      239 9 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      15 9 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      31 9 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      47 9 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      63 9 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      79 9 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      79 11 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      95 11 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      191 11 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      239 11 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      255 11 1
+      DELTAC1[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      223 11 1
+      DELTAC2[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      15 11 1
+      DELTAC3[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      63 11 1
+      DELTAC3[ ]
+    </assembly>
+  </prep>
+
+</ttFont>
