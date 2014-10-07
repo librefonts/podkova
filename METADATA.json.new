@@ -1,0 +1,33 @@
+{
+  "name": "Podkova",
+  "designer": "Cyreal",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 37173,
+  "fonts": [
+    {
+      "name": "Podkova",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Podkova-Regular.ttf",
+      "postScriptName": "Podkova-Regular",
+      "fullName": "Podkova-Regular",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Podkova\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Podkova",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Podkova-Bold.ttf",
+      "postScriptName": "Podkova-Bold",
+      "fullName": "Podkova-Bold",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Podkova\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-05-18"
+}

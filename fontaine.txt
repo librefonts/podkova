@@ -1,0 +1,150 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Podkova
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name "Podkova".
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: http://cyreal.org
+    Designer: Ilya Yudin
+    Designer url: http://cyreal.org
+    Glyph count: 220
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: Podkova
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name "Podkova".
+    License: Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name "Podkova".
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: http://cyreal.org
+    Designer: Ilya Yudin
+    Designer url: http://cyreal.org
+    Glyph count: 219
+    Character count: 214
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: Podkova
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: http://cyreal.org
+    Designer: Ilya Yudin
+    Designer url: http://cyreal.org
+    Glyph count: 222
+    Character count: 219
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: Podkova
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.001
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: http://cyreal.org
+    Designer: Ilya Yudin
+    Designer url: http://cyreal.org
+    Glyph count: 219
+    Character count: 216
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
